@@ -1,0 +1,1 @@
+javascript:(function(){var query=prompt("Enter the name of the Supreme Court case you would like to search for:");window.open("https://www.supremecourt.gov/search.aspx?filename=/docketfiles/14-1406.htm&search="+query)})();
